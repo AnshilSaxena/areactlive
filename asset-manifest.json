@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/areactlive/static/css/main.00f601d2.chunk.css",
+    "main.js": "/areactlive/static/js/main.bfb4b2d0.chunk.js",
+    "main.js.map": "/areactlive/static/js/main.bfb4b2d0.chunk.js.map",
+    "runtime-main.js": "/areactlive/static/js/runtime-main.99942c76.js",
+    "runtime-main.js.map": "/areactlive/static/js/runtime-main.99942c76.js.map",
+    "static/js/2.e0454b7b.chunk.js": "/areactlive/static/js/2.e0454b7b.chunk.js",
+    "static/js/2.e0454b7b.chunk.js.map": "/areactlive/static/js/2.e0454b7b.chunk.js.map",
+    "static/js/3.2ff637c9.chunk.js": "/areactlive/static/js/3.2ff637c9.chunk.js",
+    "static/js/3.2ff637c9.chunk.js.map": "/areactlive/static/js/3.2ff637c9.chunk.js.map",
+    "index.html": "/areactlive/index.html",
+    "static/css/main.00f601d2.chunk.css.map": "/areactlive/static/css/main.00f601d2.chunk.css.map",
+    "static/js/2.e0454b7b.chunk.js.LICENSE.txt": "/areactlive/static/js/2.e0454b7b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/areactlive/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99942c76.js",
+    "static/js/2.e0454b7b.chunk.js",
+    "static/css/main.00f601d2.chunk.css",
+    "static/js/main.bfb4b2d0.chunk.js"
+  ]
+}
